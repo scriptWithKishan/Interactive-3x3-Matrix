@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Interactive-3x3-Matrix/static/css/main.e0555db8.css",
+    "main.js": "/Interactive-3x3-Matrix/static/js/main.fccc86ed.js",
+    "static/js/453.d6b446a6.chunk.js": "/Interactive-3x3-Matrix/static/js/453.d6b446a6.chunk.js",
+    "index.html": "/Interactive-3x3-Matrix/index.html",
+    "main.e0555db8.css.map": "/Interactive-3x3-Matrix/static/css/main.e0555db8.css.map",
+    "main.fccc86ed.js.map": "/Interactive-3x3-Matrix/static/js/main.fccc86ed.js.map",
+    "453.d6b446a6.chunk.js.map": "/Interactive-3x3-Matrix/static/js/453.d6b446a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0555db8.css",
+    "static/js/main.fccc86ed.js"
+  ]
+}
